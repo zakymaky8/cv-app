@@ -1,2 +1,2 @@
 # cv-app
-CV application made using React, Saas, Tailwind-css
+CV application made using React, Tailwind-css
